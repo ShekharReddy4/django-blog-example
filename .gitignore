@@ -5,7 +5,7 @@ __pycache__
 
 # Env
 .env
-djangopractice
+./djangopractice
 
 # Database
 db.sqlite3
